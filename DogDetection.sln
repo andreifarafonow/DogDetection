@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogDetectionML.Model", "DogDetectionML.Model\DogDetectionML.Model.csproj", "{1DB3B6AB-896E-407D-9084-0B78399300F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogDetectionML.ConsoleApp", "DogDetectionML.ConsoleApp\DogDetectionML.ConsoleApp.csproj", "{D52B30D9-77AA-4AB7-942F-85F8AEEBD72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB3B6AB-896E-407D-9084-0B78399300F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB3B6AB-896E-407D-9084-0B78399300F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB3B6AB-896E-407D-9084-0B78399300F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB3B6AB-896E-407D-9084-0B78399300F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52B30D9-77AA-4AB7-942F-85F8AEEBD72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52B30D9-77AA-4AB7-942F-85F8AEEBD72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52B30D9-77AA-4AB7-942F-85F8AEEBD72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52B30D9-77AA-4AB7-942F-85F8AEEBD72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F12F53D-7356-4376-BBA0-C77A36AACECA}
+	EndGlobalSection
+EndGlobal
